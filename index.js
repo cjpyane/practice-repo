@@ -83,14 +83,40 @@ const pets = [
     }
   ];
 
-/*
-The function `filterByMedication` takes in an `array` of pet objects and a target `medication`. 
-This function should use the native filter method to return a new array of only the pet objects 
-that use the medication.
-
-example: filterByMedication(pets, 'Gabepentin'); // => [<Noodles>, <Desi>]
-*/
-
+// Problem #1 //
 function filterByMedication(array, medication){
   
 }
+
+// Problem #2 //
+function speciesAndNumberOfMedications(array, species){
+
+}
+
+// Problem #3 //
+function getDailyFrequency(pets){
+
+}
+
+// Problem #4 //
+function createStrings(pets){
+
+}
+
+// Problem #5 //
+function reduceSpecies(pets, species){
+
+}
+
+// Problem #6 //
+function namesAndMedications(pets){
+
+}
+
+// Problem #7
+
+
+
+
+
+
