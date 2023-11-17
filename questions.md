@@ -9,6 +9,7 @@ function updateCourse(){
     return course;
 }
 
+updateCourse();
 console.log(course);
 ```
 
@@ -31,6 +32,7 @@ function updateCourse(){
     return course;
 }
 
+updateCourse();
 console.log(course);
 ```
 
@@ -53,15 +55,38 @@ function updateCourse(){
     return course;
 }
 
+updateCourse();
 console.log(course);
 ```
 
-What will be be the value of `course` when it is logged?
+What will be the result of running this code?
 ```
 Your answer here.
 ```
 
-Explain why that will be the value.
+Explain why.
 ```
 Your answer here.
 ```
+
+### Problem #4
+```
+const course = 'Bootcamp';
+
+if (course === 'Bootcamp'){
+    const orientationDate = "December 1, 2023"
+}
+
+console.log(orientationDate);
+```
+
+What will be the result of running this code?
+```
+Your answer here.
+```
+
+Explain why.
+```
+Your answer here.
+```
+
