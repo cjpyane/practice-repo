@@ -13,7 +13,11 @@ console.log(course);
 ```
 
 What will be be the value of `course` when it is logged?
-YOUR ANSWER HERE:
+```
+Your answer here.
+```
 
 Explain why that will be the value
-YOUR ANSWER HERE:
+```
+Your answer here.
+```
