@@ -1,7 +1,7 @@
-let course = 'Bootcamp';
+const course = 'Bootcamp';
 
 function updateCourse(){
-    course = 'Precourse';
+    let course = 'Precourse';
     return course;
 }
 
