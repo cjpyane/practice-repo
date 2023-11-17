@@ -85,10 +85,9 @@ const pets = [
 
 // Problem #1 //
 function filterByMedication(array, medication){
-  return "can you see me?"
+  
 }
 
-console.log(filterByMedication(pets, 'Gabepentin'));
 
 // Problem #2 //
 function speciesAndNumberOfMedications(array, species){
@@ -96,29 +95,33 @@ function speciesAndNumberOfMedications(array, species){
 }
 
 // Problem #3 //
-function getDailyFrequency(pets){
+function getDailyFrequency(array){
 
 }
 
 // Problem #4 //
-function createStrings(pets){
+function createStrings(array){
 
 }
 
 // Problem #5 //
-function reduceSpecies(pets, species){
+function reduceSpecies(array, species){
 
 }
 
 // Problem #6 //
-function namesAndMedications(pets){
+function namesAndMedications(array){
 
 }
 
-// Problem #7
+// Problem #7 //
+function filterByDailyFrequency(array){
 
+}
 
-
-
+// Problem #8 // 
+function createEntriesByLocation(array, location){
+  
+}
 
 
