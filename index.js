@@ -160,7 +160,8 @@ return array.filter(pet => pet.treatments.frequency === 'Daily')
 console.log(filterByDailyFrequency(pets))
 // Problem #8 // 
 function createEntriesByLocation(array, location){
-  
+  let arrayLocal = array.filter(pet => pet.location === location);
+  return arrayLocal.map(pet => [pet.name, pet.species])
 }
 
 
